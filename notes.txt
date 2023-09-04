@@ -1,0 +1,17 @@
+https://towardsdatascience.com/hypothesis-testing-with-python-step-by-step-hands-on-tutorial-with-practical-examples-e805975ea96e
+
+https://towardsdatascience.com/an-interactive-guide-to-hypothesis-testing-in-python-979f4d62d85
+
+https://medium.com/analytics-vidhya/a-guide-on-how-to-simulate-and-visualize-hypothesis-tests-using-python-code-66861e0d0f74
+
+https://netflixtechblog.medium.com/
+
+https://nyudatascience.medium.com/
+
+https://towardsdatascience.com/hypothesis-testing-in-machine-learning-using-python-a0dc89e169ce
+
+https://www.scribbr.com/statistics/test-statistic/#:~:text=A%20test%20statistic%20is%20a,no%20difference%20among%20sample%20groups.
+
+https://support.minitab.com/es-mx/minitab/21/help-and-how-to/statistics/basic-statistics/supporting-topics/basics/what-is-a-critical-value/#:~:text=A%20critical%20value%20is%20a,test%20have%20two%20critical%20values.
+
+https://www.imathas.com/stattools/norm.html
