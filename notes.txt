@@ -15,3 +15,15 @@ https://www.scribbr.com/statistics/test-statistic/#:~:text=A%20test%20statistic%
 https://support.minitab.com/es-mx/minitab/21/help-and-how-to/statistics/basic-statistics/supporting-topics/basics/what-is-a-critical-value/#:~:text=A%20critical%20value%20is%20a,test%20have%20two%20critical%20values.
 
 https://www.imathas.com/stattools/norm.html
+
+https://www.probabilidadyestadistica.net/funcion-de-distribucion/
+
+
+Two-sample test graph obtained from this url:
+https://www.kaggle.com/code/hamelg/python-for-data-24-hypothesis-testing
+
+
+Matplot documentation: 
+https://matplotlib.org/stable/tutorials/introductory/pyplot.html
+https://matplotlib.org/stable/tutorials/introductory/quick_start.html#figure-parts
+https://matplotlib.org/stable/users/explain/api_interfaces.html#api-interfaces
