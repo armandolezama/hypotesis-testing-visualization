@@ -27,3 +27,5 @@ Matplot documentation:
 https://matplotlib.org/stable/tutorials/introductory/pyplot.html
 https://matplotlib.org/stable/tutorials/introductory/quick_start.html#figure-parts
 https://matplotlib.org/stable/users/explain/api_interfaces.html#api-interfaces
+
+https://docs.scipy.org/doc/scipy/reference/stats.html
