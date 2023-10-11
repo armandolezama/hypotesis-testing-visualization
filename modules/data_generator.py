@@ -12,5 +12,14 @@ class data_generator:
   
   def get_normal_data_simulation(self, data, sample_size):
     mean, std_dev = stats.norm.fit(data)
-    return np.random.normal(loc=mean, scale=std_dev, size=sample_size)
+
+    error = data - mean
+
+    simulated_data = np.random.normal(loc=mean, scale=std_dev, size=sample_size)
+
+    error_indices = np.random.choice(range(len(error)), size=sample_size, replace=True)
+
+    simulated_data += error[error_indices]
+
+    return simulated_data
   
